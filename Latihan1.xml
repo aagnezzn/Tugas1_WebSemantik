@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daftar_film>
+    <film>
+        <judul>Avengers: Endgame</judul>
+        <sutradara>Anthony &amp; Joe Russo</sutradara>
+        <genre>Action / Superhero</genre>
+        <tahun>2019</tahun>
+        <poster>images/avenger.jpg</poster>
+    </film>
+    <film>
+        <judul>Spider-Man: No Way Home</judul>
+        <sutradara>Jon Watts</sutradara>
+        <genre>Action / Superhero</genre>
+        <tahun>2021</tahun>
+        <poster>images/spiderman.jpg</poster>
+    </film>
+    <film>
+        <judul>Harry Potter and the Sorcerer's Stone</judul>
+        <sutradara>Chris Columbus</sutradara>
+        <genre>Fantasy / Adventure</genre>
+        <tahun>2001</tahun>
+        <poster>images/harrypotter.jpg</poster>
+    </film>
+    <film>
+        <judul>Wednesday</judul>
+        <sutradara>Tim Burton</sutradara>
+        <genre>Fantasy / Mystery</genre>
+        <tahun>2022</tahun>
+        <poster>images/wednesday.jpg</poster>
+    </film>
+    <film>
+        <judul>Percy Jackson &amp; The Olympians</judul>
+        <sutradara>Thor Freudenthal</sutradara>
+        <genre>Fantasy / Adventure</genre>
+        <tahun>2013</tahun>
+        <poster>images/percy.jpg</poster>
+    </film>
+    <film>
+        <judul>Doctor Strange</judul>
+        <sutradara>Scott Derrickson</sutradara>
+        <genre>Action / Fantasy</genre>
+        <tahun>2016</tahun>
+        <poster>images/doctorstrange.jpg</poster>
+    </film>
+    <film>
+        <judul>Thor: Ragnarok</judul>
+        <sutradara>Taika Waititi</sutradara>
+        <genre>Action / Comedy</genre>
+        <tahun>2017</tahun>
+        <poster>images/thor.jpg</poster>
+    </film>
+    <film>
+        <judul>The Dark Knight</judul>
+        <sutradara>Christopher Nolan</sutradara>
+        <genre>Action / Superhero</genre>
+        <tahun>2008</tahun>
+        <poster>images/batman.jpg</poster>
+    </film>
+    <film>
+        <judul>Avatar: The Way of Water</judul>
+        <sutradara>James Cameron</sutradara>
+        <genre>Sci-Fi / Adventure</genre>
+        <tahun>2022</tahun>
+        <poster>images/avatar.jpg</poster>
+    </film>
+    <film>
+        <judul>Guardians of the Galaxy</judul>
+        <sutradara>James Gunn</sutradara>
+        <genre>Action / Sci-Fi</genre>
+        <tahun>2014</tahun>
+        <poster>images/gotg.jpg</poster>
+    </film>
+</daftar_film>
